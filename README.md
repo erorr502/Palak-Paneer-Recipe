@@ -1,5 +1,5 @@
-Recipe: -
-Palak Paneer(vegetarian main coarse)
+# Recipe: -
+# Palak Paneer(vegetarian main coarse)
 
 This dish is low in spices but high in taste and nutrition, since spinach is a leafy green vegetable containing iron and calcium.
 
